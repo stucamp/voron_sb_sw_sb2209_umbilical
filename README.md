@@ -20,3 +20,5 @@ https://www.amazon.com/uxcell-Waterproof-Adjustable-Locknut-4-5-7-8mm/dp/B07R8CV
 
 ## Notes
 Both the toolchain and cablechain models will require some longer m3 bolts.  Not a lot, but areas will need approximately 3mm longer bolts.
+
+You will also want to double check you max z settings in your firmware as this will probably lessen it slightly.  The main focus was to preserve full x travel and there will be some reduction in z motion!
