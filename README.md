@@ -16,7 +16,7 @@ The CW2 Cable Bridge part is reused and what the toolhead.stl mounts to, but the
 The cablechain stl in this repo is used by mounting it sandwiched between the existing Switchwire cablechain mount and the z-axis cablechain terminus.
 
 The threading on the parts is m12 so any cable gland with that threading should work, I used cheap pg7 glands with strain relief I found on amazon:
-https://www.amazon.com/uxcell-Waterproof-Adjustable-Locknut-4-5-7-8mm/dp/B07R8CVW4G?th=1
+https://www.amazon.com/dp/B08K8FB4KV?ref=ppx_yo2ov_dt_b_product_details&th=1
 
 ## Notes
 Both the toolchain and cablechain models will require some longer m3 bolts.  Not a lot, but areas will need approximately 3mm longer bolts.
