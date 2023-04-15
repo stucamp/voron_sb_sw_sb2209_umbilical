@@ -21,4 +21,4 @@ https://www.amazon.com/dp/B08K8FB4KV?ref=ppx_yo2ov_dt_b_product_details&th=1
 ## Notes
 Both the toolchain and cablechain models will require some longer m3 bolts.  Not a lot, but areas will need approximately 3mm longer bolts.
 
-You will also want to double check you max z settings in your firmware as this will probably lessen it slightly.  The main focus was to preserve full x travel and there will be some reduction in z motion!
+You will also want to double check you max z settings in your firmware as this will probably lessen it slightly.  The main focus was to preserve full x travel and there will be some reduction in z motion!  On my switchwire, my max z is set at 220mm, you milage may vary.
