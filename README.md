@@ -25,4 +25,4 @@ https://www.amazon.com/dp/B08K8FB4KV?ref=ppx_yo2ov_dt_b_product_details&th=1
 
 ![](./Images/umbilical_closeup.jpg)
 
-Designed by Stu Campbell, user Stu#7589 on Voron Design Discord
+Designed by Stu Campbell, user bolliostu on Voron Design Discord
